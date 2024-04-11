@@ -71,7 +71,7 @@ public class MetodosTelaLoginPage {
         FileUtils.copyFile(sourceFile, destinationFile);
     
 }
-     //ishoiwhgoish
+   
 }
 	
 
